@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    border: 1px solid sandybrown;
+}
+.container{
+    padding-top: 12px;
+    text-align: center;
+}
+para{
+    display: block;
+    text-align: center;
+}
+.his{
+    display: block;
+    text-align: center;
+}
