@@ -2,19 +2,64 @@
     margin: 0px;
     padding: 0px;
 }
-h1{
-    text-align: center;
-    border: 1px solid sandybrown;
-}
-.container{
-    padding-top: 12px;
-    text-align: center;
-}
+
 para{
     display: block;
     text-align: center;
 }
-.his{
-    display: block;
+
+.navbar{
+    display: flex;
+    background-color: #333;
+}
+
+.navbar a{
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.navbar h1{
+    padding-top: 3px;
+   padding-left: 300px;
+    text-decoration: none;
+    text-align: center;
+    color: rgb(225, 16, 16);
+}
+.container{
+    display: flex;
+    padding-top: 12px;
+    text-align: center;
+}
+.container p{
+   color: rgb(232, 12, 199);
+}
+
+.his {
+    padding: 0 40px;
+}
+.his p{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.his h1{
+    color: blueviolet;
+}
+.his h2{
+    color: rgb(25, 231, 63);
+}
+.his h3{
+    color: rgb(245, 177, 74);
+}
+.his h4{
+    color: rgb(9, 214, 241);
+}
+.his h5{
+    color: rgb(238, 12, 12);
+}
+.his h6{
+    color: rgb(255, 222, 7);
+}
+.his img{
     text-align: center;
 }
